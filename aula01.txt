@@ -1,2 +1,2 @@
 Apredendo a utilizar o Github
-Criei ua maquina virtual com o linux, instalei e atualizei os programas nescessarios, com codigos e manualmente 
+Criei uma maquina virtual com o linux, instalei e atualizei os programas nescessarios, com codigos e manualmente 
