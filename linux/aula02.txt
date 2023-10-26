@@ -1,0 +1,123 @@
+terminal: bash/shell 
+shell script: linguagem de programação 
+bash: base de comandos 
+$ = usuario comum.
+# = super usuario 
+id: identificação do usuario
+sudo -i: se tornar outro usuario
+comandos de manipulação de diretórios 
+ls: listar arquivos ou diretórios
+ls-lh: lista em ordem sequencial
+ls-a: exibir arquivos ocultos
+sempre que digitar ls e aparecer na cor azul é diretórios, se aparecer na cor cinza, é texto.
+tudo que começar com ., é um arquivo ou diretório oculto
+no ls, o verde claro significa link simbolico (atalho)
+cor verde(marca texto verde), perigo
+cd: mudar de diretórios
+pwd: fala em qual diretório voce está
+cd -: voltar uma vez
+cd ~: volta para o diretorio pessoal
+cd .. = descer um nível 
+history: mostra o historico de comandos 
+!: executar o comando da linha de referencia 
+mkdir: criar diretórios
+mkdir -v: verboso, detalhar  que esta fazendo
+ajudas de comandos:--help e man
+rm: remover arquivos ou diretorios 
+-f forçar
+-v: verboso
+-R: recursivo
+ 1  sudo apt update
+    2  sudo apt upgrade 
+    3  sudo apt full-upgrade 
+    4  sudo apt dist-upgrade 
+    5  sudo apt autoremove
+    6  sudo apt autoclean
+    7  sudo apt install kazam guvcview
+    8  sudo apt install kolour paint
+    9  sudo apt install kolourpaint
+   10  sudo apt install audacity
+   11  sudo apt install vlc
+   12  sudo apt install wps
+   13  sudo apt wpsoffice
+   14  sudo apt install wpsoffice
+   15  sudo apr install wpsofficedeb
+   16  sudo apt update
+   17  sudo apt upgrade
+   18  sudo apt full-upgrade 
+   19  sudo apt dist-upgrade 
+   20  sudo apt autoremove
+   21  sudo apr autoclean
+   22  sudo apt autoclean
+   23  cls
+   24  id
+   25  sudo -i
+   26  ls
+   27  ls -lh
+   28  lh
+   29  ls -a
+   30  ls -lha
+   31  cd
+   32  cd /
+   33  cd /raiz
+   34  ls
+   35  ls -lh
+   36  pdw
+   37  pwd
+   38  cd -
+   39  pwd
+   40  cd -
+   41  cd ~
+   42  pwd
+   43  ls
+   44  cd Documentos/
+   45  cd /
+   46  cd home/senac/Documentos/
+   47  cd -
+   48  cd /
+   49  cd ~/Documentos/
+   50  pwd
+   51  cd ..
+   52  history
+   53  cd home/senac/Documentos/
+   54  mkdir senac
+   55  ls
+   56  mkdir senac
+   57  mkdir SENAC
+   58  ls
+   59  mkdir -v tatuape
+   60  ls
+   61  cd senac/
+   62  mkdir -v Alisson Andrew Arthur Bruno Caio
+   63  ls
+   64  ls -lh
+   65  mkdir -v SENAC.Tatuapé
+   66  mkdir -v SENAC/Tatuapé
+   67  mkdir -v SENAC~Tatuapé
+   68  mkdir -v SENAC Tatuapé
+   69  mkdir -v 'SENAC Tatuapé'
+   70  ls
+   71  cd SENAC\ Tatuapé/
+   72  ls
+   73  cd..
+   74  cd ..
+   75  mkdir -v tat
+   76  mkdir -v info
+   77  mkdir -v tst
+   78  mkdir -v est
+   79  mkdir -v adm
+   80  pwd
+   81  pdw
+   82  pwd
+   83  ls
+   84  mkdir --help
+   85  man mkdir 
+   86  mkdir -pv tat/info
+   87  mkdir -v tat/tst tat/adm tat/est
+   88  ls
+   89  rm Alisson/
+   90  rm -fv Alisson/
+   91  rm -Rfv Alisson/
+   92  rm -Rfv Andrew/ Arthur/ Bruno/ Caio/ est/ info
+   93  exit
+   94  history
