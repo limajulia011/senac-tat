@@ -1,0 +1,15 @@
+Aula do dia 30/10/2023, professor Vaamonde
+Echo: imprime na tela o conteúdo
+cat: imprime o conteúdo do arquivo
+touch: muda o horario do arquivo, porem se não tiver arquivo, ele cria um.
+cat -n: mostra a quantidade de linhas do arquivo
+cp: copiar arquivo ou diretórios
+mv- mover arquivo ou diretório e renomear um arquivo
+tac: lista o conteúdo do arquivo invertido
+less: leitor de arquivo
+head: lista o inicio do arquivo
+tail: lista o final do arquivo
+--------------------------------------------------------------------
+> : redirecionador de saída
+>> : redirecionador de saída
+| : redirecionador a saída de um comando com a entrada de outro comando
